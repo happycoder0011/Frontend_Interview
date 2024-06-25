@@ -1,0 +1,50 @@
+{
+    "data": {
+        "id": 1,
+        "name": "root",
+        "isFolder": true,
+        "items": [
+            {
+                "id": 2,
+                "name": "src",
+                "isFolder": true,
+                "items": [
+                    {
+                        "id": 3,
+                        "name": "package.json",
+                        "isFolder": false
+                    },
+                    {
+                        "id": 4,
+                        "name": "main.js",
+                        "isFolder": false
+                    },
+                    {
+                        "id": 5,
+                        "name": "component",
+                        "isFolder": true,
+                        "items": [
+                            {
+                                "id": 6,
+                                "name": "src",
+                                "isFolder": true,
+                                "items": [
+                                    {
+                                        "id": 7,
+                                        "name": "package.json",
+                                        "isFolder": false
+                                    },
+                                    {
+                                        "id": 8,
+                                        "name": "main.js",
+                                        "isFolder": false
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
